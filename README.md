@@ -38,7 +38,8 @@ bn, с0, с1,с2, ..., сn расположенные до последнего 
    
 ### Блок-схема
 
-<img width="583" height="789" alt="{4896F898-A941-4943-AB9F-DB0469045DD3}" src="https://github.com/user-attachments/assets/483ac5a2-4dfd-4eb0-8046-b8674587b57f" />
+![lab16](https://github.com/user-attachments/assets/652e4429-9410-4e6c-b201-fbbc431deea8)
+
 
 
 
